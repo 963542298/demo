@@ -9,6 +9,9 @@ public class Test {
     }
 
     public static void main(String[] args) {
-
+//        SessionFactory factory = new VSessionFactory("config.xml");
+//        Session session = factory.openSession();
+//        ArticleMapper mapper = session.getMapper(ArticleMapper.class);
+//        mapper.findById(1);
     }
 }

@@ -10,7 +10,5 @@ import java.lang.annotation.Target;
  * @Retention中可以选择存活的时期，选择RUNTIME（运行中）
  */
 public @interface SQL {
-
     String value();
-
 }

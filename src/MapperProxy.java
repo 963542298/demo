@@ -8,8 +8,7 @@ public class MapperProxy<T> implements InvocationHandler {
     private Session session;
 
     @SuppressWarnings("unchecked")
-    public static <T> T newInstance(Class<T> clazz, Session session)
-    {
+    public static <T> T newInstance(Class<T> clazz, Session session) {
         MapperProxy<T> proxy = new MapperProxy<T>();
         proxy.session = session;
         // 动态代理

@@ -1,18 +1,7 @@
-import java.lang.reflect.Method;
+import java.sql.SQLException;
 
-public class Session {
+public interface Session {
 
-    public static Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-        SQL sql = method.getAnnotation(SQL.class);
-        System.out.println(sql.value());
-        return null;
-    }
+    void exec(String sql) throws SQLException;
 
-    public static void main(String[] args) {
-
-    }
-
-    public void exec(String sql) {
-
-    }
 }
