@@ -4,7 +4,7 @@ import java.lang.reflect.Proxy;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MapperProxy implements InvocationHandler {
+public class MapperProxy<T> implements InvocationHandler {
     private Session session;
 
     @SuppressWarnings("unchecked")

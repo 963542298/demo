@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93165820-927c-47e8-b16d-aee2f40ad652" name="Default Changelist" comment="" />
+    <list default="true" id="93165820-927c-47e8-b16d-aee2f40ad652" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapperProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapperProxy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,13 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3a810161-d907-4c59-9e34-40c894687230" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\aVirtualDisk\idea\demo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V7Avs0BTYJUVk93UsJgjOFVLUp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -74,12 +86,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576593993121</updated>
-      <workItem from="1576593997220" duration="1950000" />
+      <workItem from="1576593997220" duration="2749000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1576596036056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576596036056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="27" key="#Project_Structure" timestamp="1576594106622">
@@ -90,6 +114,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1576594191639" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1576596034870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576596034870" />
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1576595987607">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -98,6 +126,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576595037419" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1576596126046">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1576596126046" />
     <state x="363" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1576593997958">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
